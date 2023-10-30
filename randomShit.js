@@ -1,4 +1,4 @@
 console.log("Hello World!")
 //hier vvvvvvv
-console.log('tcgyvhbjnksdmfgbnhdfbvsjdfj')
+console.log('tcgyvhbjnksdmfgbnhdfbvsjdfj')  //hier links <<<<<<<<<<<<<
 //daar ^^^^^^^
